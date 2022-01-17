@@ -25,36 +25,27 @@ Login register and recover password Page
     height: 100%;
     width: 100%;
     padding: 10% 0;
-    position: fixed; 
-}
+    position: fixed; }
   
-.login-box {
+  .login-box {
     width: 400px;
-    margin: 0 auto; 
-}
-.login-box .footer {
+    margin: 0 auto; }
+    .login-box .footer {
       width: 100%;
       left: 0px;
-      right: 0px; 
-}
-    
-.login-box .social {
+      right: 0px; }
+    .login-box .social {
       display: block;
-      margin-bottom: 30px; 
-}
+      margin-bottom: 30px; }
   
-#recoverform {
-    display: none; 
-}
+  #recoverform {
+    display: none; }
   
-.login-sidebar {
+  .login-sidebar {
     padding: 0px;
-    margin-top: 0px; 
-}
-    
-.login-sidebar .login-box {
+    margin-top: 0px; }
+    .login-sidebar .login-box {
       right: 0px;
       position: absolute;
-      height: 100%; 
-}
+      height: 100%; }
   
